@@ -19,7 +19,7 @@ function multiplication(a, b) {
     var b = parseInt(document.getElementById("inputElementTwo").value);
     
     const ans = a * b;
-    alert ("The Multiplication is " + ans);
+    alert ("The Product is " + ans);
 }
 
 function division(a, b) {
